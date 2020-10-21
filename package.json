@@ -1,0 +1,27 @@
+{
+  "name": "censor-with-flora",
+  "version": "1.0.0",
+  "description": "Make your harsh language more floral",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadja-and-elisabeths-open-source/censor-with-flora.git"
+  },
+  "keywords": [
+    "Flora",
+    "floral",
+    "javascript",
+    "terminal",
+    "console",
+    "custom"
+  ],
+  "author": "Elisabeth Asbæk Jeppesen and Nadja Rømer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nadja-and-elisabeths-open-source/censor-with-flora/issues"
+  },
+  "homepage": "https://github.com/nadja-and-elisabeths-open-source/censor-with-flora#readme"
+}
